@@ -7,9 +7,13 @@ export default {
     "aku yakin, kamu pasti bisa melewatinya",
     "aku selalu support dari kejauhan meskipun kita tak sedekat dulu lagi",
     "kalau kamu lagi down, sedih, nangis, seneng",
-    "aku selalu siap 24 jam untuk mendengarkan keluh kesahmu apapun itu",
+    "tapi ga tau harus curhat ke siapa",
+    "aku selalu siap untuk mendengarkanmu",
     "jadi tetap semangat ya!",
+    "yay lebay ya? wkwkwk",
+    "buah kedondong monyet berbulu",
     "I wuv chuuuu! UwU",
+
   ],
   panggilan: ["Siti Annisa Azzahra ❣️"],
   colors: [

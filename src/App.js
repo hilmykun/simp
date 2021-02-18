@@ -219,10 +219,10 @@ class App extends Component {
                     data-text={
                       this.state.greeting === "Morning" ||
                       this.state.greeting === "Evening"
-                        ? "I Miss U"
+                        ? "I Miss Uu"
                         : this.state.greeting === "Night"
-                        ? "I Love U"
-                        : "I Miss U"
+                        ? "I Love Uu"
+                        : "I Miss Uu"
                     }
                   >
                     Good {this.state.greeting + ", "}
