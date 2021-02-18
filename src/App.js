@@ -71,15 +71,15 @@ class App extends Component {
       var sec = new Date().getSeconds(); //Current Seconds
 
       if (hours >= 18) {
-        greeting = "Night";
+        greeting = "Night,";
       } else if (hours >= 15) {
-        greeting = "Evening";
+        greeting = "Evening,";
       } else if (hours >= 11) {
-        greeting = "Afternoon";
+        greeting = "Afternoon,";
       } else if (hours >= 5) {
-        greeting = "Morning";
+        greeting = "Morning,";
       } else if (hours >= 0) {
-        greeting = "Night";
+        greeting = "Night,";
       }
       this.setState({
         curdate: hours + ":" + min + ":" + sec,
