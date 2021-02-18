@@ -16,7 +16,7 @@ export default {
     "semoga suka sama orangnya ya hihihi *eh",
     "maksudnya suka sama web nya wkwkwk",
     "next nanti kutambahin beberapa fitur lagi",
-    "kalau agak gabut ya hehe >.<"
+    "kalau agak gabut ya hehe >.<",
     "buah kedondong monyet berbulu",
     "I wuv chuuuu! UwU",
 
