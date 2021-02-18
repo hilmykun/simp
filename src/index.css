@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "Minecraft";
-  src: local("Minecraft"), url(./fonts/Minecraft-Bold.otf) format("opentype");
+  font-family: "Nunito";
+  src: local("Nunito"), url(./fonts/Nunito-SemiBold.otf) format("opentype");
 }
 
 body {
@@ -8,7 +8,7 @@ body {
   /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif; */
-  font-family: "Minecraft";
+  font-family: "Nunito";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
