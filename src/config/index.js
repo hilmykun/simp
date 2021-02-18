@@ -1,5 +1,6 @@
 export default {
   ucapan: [
+    "Doorrrrrr!",
     "Hai kamu, Apa kabar?",
     "Kuharap kamu baik-baik aja ya disana",
     "meskipun aku tau kamu lagi pusing",
@@ -11,12 +12,18 @@ export default {
     "aku selalu siap untuk mendengarkanmu",
     "jadi tetap semangat ya!",
     "yay lebay ya? wkwkwk",
+    "aku sedikit gabut, jadi bikin ini untuk kamu",
+    "semoga suka sama orangnya ya hihihi *eh",
+    "maksudnya suka sama web nya wkwkwk",
+    "next nanti kutambahin beberapa fitur lagi",
+    "kalau agak gabut ya hehe >.<"
     "buah kedondong monyet berbulu",
     "I wuv chuuuu! UwU",
 
   ],
   panggilan: ["Siti Annisa Azzahra ❣️"],
   colors: [
+    "#F78DA7",
     "#FF6900",
     "#FCB900",
     "#7BDCB5",
@@ -25,7 +32,6 @@ export default {
     "#0693E3",
     "#ABB8C3",
     "#EB144C",
-    "#F78DA7",
     "#CC00FF",
     "#000000",
   ],
