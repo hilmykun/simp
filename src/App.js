@@ -183,7 +183,7 @@ class App extends Component {
               <div className="wrapper">
                 <h1 className="jams">{this.state.curdate}</h1>
                 <h2 className="panggilans">
-                  Good {this.state.greeting} {this.state.panggilan}
+                  Good {this.state.greeting}, {this.state.panggilan}
                 </h2>
                 <h3 className="ucapans">
                   {this.state.text}
@@ -219,10 +219,10 @@ class App extends Component {
                     data-text={
                       this.state.greeting === "Morning" ||
                       this.state.greeting === "Evening"
-                        ? "I Miss Uuuu"
+                        ? "I Miss U"
                         : this.state.greeting === "Night"
-                        ? "I Love Uuuu"
-                        : "I Miss Uuuu"
+                        ? "I Love U"
+                        : "I Miss U"
                     }
                   >
                     Good {this.state.greeting + ", "}
