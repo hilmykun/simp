@@ -183,7 +183,7 @@ class App extends Component {
               <div className="wrapper">
                 <h1 className="jams">{this.state.curdate}</h1>
                 <h2 className="panggilans">
-                  Good {this.state.greeting}, {this.state.panggilan}
+                  Good {this.state.greeting} {this.state.panggilan}
                 </h2>
                 <h3 className="ucapans">
                   {this.state.text}
