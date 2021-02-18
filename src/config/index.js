@@ -11,7 +11,7 @@ export default {
     "jadi tetap semangat ya!",
     "I wuv chuuuu! UwU",
   ],
-  panggilan: ["Siti Annisa Azzara ❣️"],
+  panggilan: ["Siti Annisa Azzahra"],
   colors: [
     "#FF6900",
     "#FCB900",

@@ -71,15 +71,15 @@ class App extends Component {
       var sec = new Date().getSeconds(); //Current Seconds
 
       if (hours >= 18) {
-        greeting = "Night,";
+        greeting = "Night";
       } else if (hours >= 15) {
-        greeting = "Evening,";
+        greeting = "Evening";
       } else if (hours >= 11) {
-        greeting = "Afternoon,";
+        greeting = "Afternoon";
       } else if (hours >= 5) {
-        greeting = "Morning,";
+        greeting = "Morning";
       } else if (hours >= 0) {
-        greeting = "Night,";
+        greeting = "Night";
       }
       this.setState({
         curdate: hours + ":" + min + ":" + sec,
@@ -219,10 +219,10 @@ class App extends Component {
                     data-text={
                       this.state.greeting === "Morning" ||
                       this.state.greeting === "Evening"
-                        ? "I Miss U"
+                        ? "I Miss Uuuu"
                         : this.state.greeting === "Night"
-                        ? "I Love U"
-                        : "I Miss U"
+                        ? "I Love Uuuu"
+                        : "I Miss Uuuu"
                     }
                   >
                     Good {this.state.greeting + ", "}
