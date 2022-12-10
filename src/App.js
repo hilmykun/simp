@@ -240,7 +240,7 @@ class App extends Component {
         </footer>
         <ReactAudioPlayer
           style={{ height: 20, width: 100 }}
-          src={require("./music.mp3")}
+          src={require("./music1.mp3")}
           autoPlay
           controls
         />
