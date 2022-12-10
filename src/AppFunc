@@ -37,7 +37,7 @@ export const App = () => {
   const [currentDate, setCurrentDate] = useState();
   const MagicOcean = [
     "Whatever happens, keep breathing",
-    "Harta, Tahta, Angelia >.<",
+    "Harta, Tahta, Bianca >.<",
     "Hey! I wuv chuuuu! UwU",
   ];
   const [magicName, setMagicName] = useState("magic is going to happen");
